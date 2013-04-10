@@ -3,7 +3,7 @@ void setup() {
 }
 
 void draw() {
-  drawCone(200,200);
+  drawCone(300,300);
  drawCone(100,100);
 } 
   
